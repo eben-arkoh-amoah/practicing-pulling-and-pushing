@@ -183,3 +183,16 @@ line-height: 25px;
 font-size: 18px;
 line-height: 28px;
 }
+
+
+footer {
+  background-color: #13183f;
+}
+
+.gradient1 {
+  background: linear-gradient(180deg, #ff6f48, #f02aa6);
+}
+
+#third-button {
+  background: linear-gradient(rgba(72, 81, 225, 0.5), rgba(240, 42, 166, 0.5));
+}
