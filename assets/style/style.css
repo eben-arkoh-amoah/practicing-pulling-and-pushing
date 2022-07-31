@@ -43,8 +43,7 @@ footer {
 
 #first-button, #third-button {
   padding: 0.5rem 1.1rem;
-  background: red;
-  /* background: #13183f; */
+  background: #13183f;
   height: 45px;
   z-index: 3;
 }
