@@ -79,6 +79,11 @@ button{
     padding: 0.8rem 2rem;
 }
 
+
+.gradient1 {
+  background: linear-gradient(180deg, #ff6f48, #f02aa6);
+}
+
 .hero {
   display: flex;
   flex-direction: column;
