@@ -1,16 +1,16 @@
 <h1 align="center">skilled e-learning</h1>
 
-![screenshot](preview1.png)
+![screenshot](mobile-view.png)
+![screenshot](tablet-view.png)
 <br>
 
 <div align="center">
   <h3>
-    <a href="https://xd.adobe.com/view/cc7bcce3-54a8-490c-98bf-7c492c01fa25-9928/screen/2596fbfc-838b-4618-a522-be8462ca1fe3">
+    <a href="">
       Designs
     </a>
     <span> |
-     <a href="mobile-view.png">
-     <a href="tablet-view.png">
+     <a href="https://skilled-e-learning.netlify.app/">
       Demo
     </a>
     <span> | </span>
