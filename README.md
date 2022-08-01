@@ -44,6 +44,6 @@ This project was giving to me in a training course to get it completed in a maxi
 - [html](https://www.w3schools.com)
 - [css](https://css-tricks.com)
 
-## About author
+## Author
 Name: Ebenezer Arkoh-Amoah
 
