@@ -14,6 +14,7 @@ width: 100%;
 .wrapper {
   width: inherit;
   position: relative;
+  padding-top: 10px;
 }
 
 .main,
@@ -45,7 +46,6 @@ footer {
 }
 
 #first-button, #third-button {
-  /* padding: 0.5rem 1.2rem; */
   text-align: center;
   background: #13183f;
   height: 43px;
@@ -58,7 +58,7 @@ footer {
 }
 
 header{
-  height: 60px;
+  height: 48px;
 }
 
 footer{
