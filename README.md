@@ -33,7 +33,7 @@ This is a single page application which displays  training courses with  brief d
 
 ## About the Project
 
-This project is a project giving to me in a training course to complete in a maximum period of one month to accertain my html , css and git workflow knowladge level.
+This project was giving to me in a training course to get it completed in a maximum period of one month to accertain my html , css and git workflow knowladge and skills.
 
 ## Tasks
 
