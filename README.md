@@ -23,22 +23,12 @@
 
 <br>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [About the Project](#about-the-project)
-- [Tasks](#how-to-use)
-- [Built With](#built-with)
-- [How to use](#how-to-use)
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-This is a single page application which displays  training courses with a brief descriptions, buttons and an image.  
+This is a single page application which displays  training courses with  brief descriptions, buttons and an image.  
 
 
 ## About the Project
@@ -55,6 +45,5 @@ This project is a project giving to me in a training course to complete in a per
 - [css](https://css-tricks.com)
 
 ## About author
-[Name](Ebenezer Arkoh-Amoah)
-[Mail](arkohamoah@gmail.com)
+Name: Ebenezer Arkoh-Amoah
 
