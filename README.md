@@ -1,7 +1,8 @@
 <h1 align="center">skilled e-learning</h1>
 
-<div margin="auto">![screenshot](tablet-view.png)</div>
+<img margin="auto" src="tablet-view.png">
 <br>
+![screenshot](tablet-view.png)
 
 <div align="center">
   <h3>
