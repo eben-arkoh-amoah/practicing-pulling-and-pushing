@@ -6,7 +6,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://www.figma.com/file/29qx51UBg3m1568Fl3V3JR/Diagram---skilled-elearning-landing-page?node-id=0%3A1">
       Designs
     </a>
     <span> |
