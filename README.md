@@ -1,6 +1,6 @@
 <h1 align="center">skilled e-learning</h1>
 
-![screenshot](tablet-view.png)
+<div margin="auto">![screenshot](tablet-view.png)</div>
 <br>
 
 <div align="center">
