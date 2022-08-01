@@ -8,8 +8,11 @@
   box-sizing: border-box;
 }
 
+body{
+width: 100%;
+}
 .wrapper {
-  width: 100%;
+  width: inherit;
   position: relative;
 }
 
@@ -42,9 +45,11 @@ footer {
 }
 
 #first-button, #third-button {
-  padding: 0.5rem 1.1rem;
+  /* padding: 0.5rem 1.2rem; */
+  text-align: center;
   background: #13183f;
-  height: 40px;
+  height: 43px;
+  width: 130px;
   z-index: 3;
 }
 
@@ -76,7 +81,8 @@ button{
 
 #second-button{
   height: 56px;
-    padding: 0.8rem 2rem;
+  width: 167px;
+  text-align: center;
 }
 
 
@@ -263,7 +269,22 @@ footer {
     padding: 0px 130px;
   }
 
-  .courses {
+  
+#first-button, #third-button {
+  text-align: center;
+  background: #13183f;
+  height: 50px;
+  width: 140px;
+  z-index: 3;
+}
+
+#second-button{
+  height: 63px;
+  width: 167px;
+  text-align: center;
+}
+
+.courses {
     grid-template-columns: 1fr 1fr 1fr;
     row-gap: 3rem;
   }
