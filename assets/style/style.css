@@ -200,7 +200,7 @@ footer {
 }
 
 #third-button {
-  background: linear-gradient(rgba(72, 81, 225, 0.5), rgba(240, 42, 166, 0.5));
+  background: linear-gradient(180deg,rgba(72, 81, 225, 0.6), rgba(240, 42, 166, 0.6));
 }
 
 
@@ -271,17 +271,13 @@ footer {
 
   
 #first-button, #third-button {
-  text-align: center;
-  background: #13183f;
   height: 50px;
   width: 140px;
-  z-index: 3;
 }
 
 #second-button{
   height: 63px;
   width: 167px;
-  text-align: center;
 }
 
 .courses {
@@ -324,6 +320,10 @@ footer {
 
   .course-description{
     width: 18.5rem;
+  }
+
+  button{
+    cursor: pointer;
   }
 
  #first-button:hover {
