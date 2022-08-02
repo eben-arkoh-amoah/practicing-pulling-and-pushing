@@ -1,6 +1,5 @@
 <h1 align="center">skilled e-learning</h1>
 
-![screenshot](mobile-view.png)
 ![screenshot](tablet-view.png)
 <br>
 
