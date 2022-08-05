@@ -205,7 +205,7 @@ footer {
 
 
 /* Tablet mode */
-@media screen and (min-width: 520px) {
+@media screen and (min-width: 620px) {
   #hero-section {
     margin: 50px auto 150px auto;
   }
@@ -261,7 +261,7 @@ footer {
 
 /* Desktop mode  */
 
-@media screen and (min-width: 900px) {
+@media screen and (min-width: 950px) {
 
   section,
   header,
