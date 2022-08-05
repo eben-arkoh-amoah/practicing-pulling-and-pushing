@@ -9,6 +9,7 @@
 }
 
 
+
 .wrapper {
   width: inherit;
   position: relative;
@@ -45,12 +46,14 @@ footer {
 
 #first-button, #third-button {
   text-align: center;
-  background: #13183f;
   height: 43px;
   width: 130px;
   z-index: 3;
 }
 
+#first-button{
+  background: #13183f;
+}
 #hero-section {
   margin-top: 1rem;
 }
