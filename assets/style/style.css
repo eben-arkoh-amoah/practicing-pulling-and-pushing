@@ -325,11 +325,15 @@ footer {
     width: 18.5rem;
   }
 
-  button{
+  button , .course-get-started{
     cursor: pointer;
   }
 
- #first-button:hover {
+  .course-get-started:hover{
+    opacity: 0.5;
+  }
+  
+  #first-button:hover {
     background: rgb(102, 108, 163);
   }
 
@@ -339,6 +343,7 @@ footer {
       rgba(240, 42, 166, 0.5)
     );
   }
+
 
   #third-button:hover {
     background: linear-gradient(180deg, #4851ff, #f02aa6);
