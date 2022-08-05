@@ -100,6 +100,7 @@ button{
   display: flex;
   flex-direction: column;
   gap: 1rem;
+  padding: auto;
 }
 
 .welcome-text {
@@ -107,6 +108,7 @@ button{
   font-size: 35px;
   font-weight: 800px;
   line-height: 50px;
+  max-width: 300px;
 }
 
 .hero-description {
@@ -205,7 +207,7 @@ footer {
 
 
 /* Tablet mode */
-@media screen and (min-width: 620px) {
+@media screen and (min-width: 750px) {
   #hero-section {
     margin: 50px auto 150px auto;
   }
@@ -261,7 +263,7 @@ footer {
 
 /* Desktop mode  */
 
-@media screen and (min-width: 950px) {
+@media screen and (min-width: 970px) {
 
   section,
   header,
