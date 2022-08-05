@@ -37,6 +37,7 @@ footer {
   justify-content: center;
 }
 
+
 header,
 footer {
   display: flex;
@@ -49,6 +50,10 @@ footer {
   height: 43px;
   width: 130px;
   z-index: 3;
+}
+
+.gradient1 {
+  background: linear-gradient(180deg, #ff6f48, #f02aa6);
 }
 
 #first-button{
@@ -77,19 +82,15 @@ button{
   border: none;
   border-radius: 50px;
   color: #FFFFFF;
+  text-align: center;
 }
 
 
 #second-button{
   height: 56px;
   width: 167px;
-  text-align: center;
 }
 
-
-.gradient1 {
-  background: linear-gradient(180deg, #ff6f48, #f02aa6);
-}
 
 .hero {
   display: flex;
@@ -198,9 +199,6 @@ footer {
   background-color: #13183f;
 }
 
-.gradient1 {
-  background: linear-gradient(180deg, #ff6f48, #f02aa6);
-}
 
 #third-button {
   background: linear-gradient(180deg,rgba(72, 81, 225, 0.6), rgba(240, 42, 166, 0.6));
